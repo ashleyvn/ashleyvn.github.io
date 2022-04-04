@@ -1,5 +1,6 @@
 # Ashley Nguyen
-OBJECTIVE
+
+## OBJECTIVE
 To find an internship in the field of computers and engineering with special interest in programming, management systems, and cyber security.
 
 ## EDUCATION
